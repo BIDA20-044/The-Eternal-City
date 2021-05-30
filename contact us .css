@@ -1,0 +1,158 @@
+.header{background-color: lightsteelblue;
+    text-align: center;
+    padding: 20px;
+}
+/*The navigation bar*/
+ul{
+list-style-type: none;
+margin:0ch;
+padding:0ch;
+overflow: hidden;
+background-color:rgb(209, 196, 7);
+}
+
+li {
+   float: left;
+}
+
+a{
+  display: block;
+  padding: 8px;
+  background-color:rgb(255, 254, 182)
+}
+
+ul{
+   background-color: rgb(214, 214, 207);
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(202, 173, 6);
+}
+li{
+    float: left;
+}
+
+li a{
+   display: block;
+  color: rgb(1, 0, 61);
+text-align: center;
+padding: 14px  160x;
+text-decoration: none;
+}
+.active{
+   background-color: violet;
+}
+
+/*Add a grey right border to all list items, except the last item (:last-child)*/
+li{
+border-right: 1px solid rgb(167, 156, 3);
+}
+li: :last-child{
+   border-right:none;
+}
+
+
+
+body{
+background-color: rgb(229, 229, 231);
+}
+
+
+
+
+   
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color:rgb(2, 1, 59);
+}
+
+li {
+   float: left;
+}
+
+a{
+  display: block;
+  padding: 8px;
+  background-color:rgb(235, 183, 10)
+}
+
+ul{
+   background-color: rgb(235, 183, 10);
+}
+
+ul{
+list-style-type:none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(235, 183, 10);
+}
+li{
+    float: left;
+}
+
+
+li a{
+display:inline block;
+font-family:cursive;
+color: rgb(0, 0, 24);
+text-align: center;
+padding: 14px  160x;
+text-decoration: none;
+}
+
+li a{
+    display:inline-block;
+}
+body{
+   background-color:rgb(0 , 0, 24);
+}
+
+/*Add a grey right border to all list items, except the last item (:last-child)*/
+li{
+border-right: 1px solid #bbb;
+}
+li: :last-child{
+   border-right:none;
+}
+
+
+h1{
+color: rgb(248, 248, 248);     
+
+}
+
+body{
+color:rgb(235,183, 10);
+}
+h3{
+color: white;
+}
+
+
+
+ 
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
